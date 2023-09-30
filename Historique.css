@@ -1,0 +1,267 @@
+ body{
+        background-attachment: fixed;
+       }
+       #contenair{
+  display: block;
+  position:absolute; 
+  width:100%;
+  line-height:0px;
+  top:280px; 
+  left:0%;
+  background:grey;
+  border: 2px solid transparent;
+  color: white;
+}
+
+#contenair1{
+  display: block;
+  position:absolute; 
+  width:60%;
+  height:2500px;
+  top:320px; 
+  left:2%;
+  background:transparent;
+  border: 2px solid maroon;
+  color:grey;
+}
+#contenair2{
+  display: block;
+  position:absolute; 
+  width:26%;
+  height:15%;
+  top:350px; 
+  left:2%; 
+  background:transparent;
+  border: 2px solid transparent;
+}
+#contenair2 p{
+  font-size: 40px;
+  margin:0px;
+  padding: 0px;
+  color:orange;
+}
+#contenair3{
+  display: block;
+  position:absolute; 
+  width:26%;
+  height:24%;
+  top:500px; 
+  left:2%; 
+  background:transparent;
+  border: 2px solid transparent;
+}
+#contenair4{
+  display: block;
+  position:absolute; 
+  width:30%;
+  height:24%;
+  top:500px; 
+  left:30%; 
+  background:transparent;
+  border: 2px solid transparent;
+}
+#contenair4 p{
+  font-size: 20px;
+  padding:0px;
+  margin: 0;
+  padding-top: 5px;
+  color: grey;
+}
+#contenair5{
+  display: block;
+  position:absolute; 
+  width:58%;
+  height:24%;
+  top:670px; 
+  left:2%; 
+  background:transparent;
+  border: 2px solid transparent;
+}
+#contenair5 p{
+  font-size: 20px;
+  padding:0px;
+  margin: 0;
+  padding-top: 5px;
+  color: grey;
+}
+#contenair6{
+  display: block;
+  position:absolute; 
+  width:25%;
+  height:2500px;
+  top:320px; 
+  left:70%;
+  background:transparent;
+  border: 2px solid transparent;
+}
+#contenair6 h1{
+  color: darkred;
+}
+#contenair6 input[type="submit"]{
+  cursor: pointer;
+  border: none;
+  outline: none;
+  height: 30px;
+  width: 85px;
+  font-size: 18px;
+  background-color: #fb2525;
+  color: #fff;
+  border-radius:20px; 
+}
+#contenair6 input[type="submit"]:hover{
+  background: #ffc107;
+  color: #000;
+}
+
+#contenair0 ul li{
+  list-style-type: none; 
+  width: 200px; 
+  line-height: 60px;
+  position: relative;
+  background: #222;
+  box-shadow:0px 2px 5px 0px grey;
+  text-align: center; 
+  background:linear-gradient(transparent 20%,black  80% );
+  right: 10px;
+  top: -20px; 
+}
+#contenair0 ul li a{
+  color: white;
+  font-size: 20px;
+  border-bottom: 2px solid white;
+  display:inline-block;
+
+}
+#contenair0 ul li a:hover{
+  color:black;
+  background:transparent;
+  background:linear-gradient(black 20%, grey 80% );
+  font-size: 20px;
+  border-bottom: 2px solid darkred;
+}
+
+#contenair00{
+  color: white;
+  font-size: 30px;
+  display:inline-block;
+  text-decoration: none;
+  color: darkred;
+}
+#contenair00:hover{
+  text-decoration: none;
+  color:orange;
+  width: 100%; 
+  line-height: 60px;
+  position: relative;
+  background: #222;
+  box-shadow:0px 2px 5px 0px grey;
+  text-align: center; 
+  background:linear-gradient(darkred 20%,black  80% );
+}
+#contenair22{
+  display: block;
+  position:absolute; 
+  width:903px;
+  height:559px;
+  top:2900px; 
+  left: 50px;
+  background-color:orange; 
+  border-radius:10px;
+}
+#contenair7{
+  display: block;
+  position:absolute; 
+  width:250px;
+  height:350px;
+  top:3000px; 
+  left:100px;
+  border: 2px solid maroon;
+  border-radius: 10px;
+  background-color:darkred;
+  color:skyblue;
+  background: linear-gradient(black 10%, yellow 90%);
+}
+#contenair8{
+  display: block;
+  position:absolute; 
+  width:250px;
+  height:350px;
+  top:3000px; 
+  left:375px;
+  border: 2px solid maroon;
+  background-color:darkred;
+  color: brown;
+  border-radius: 10px;
+  background: linear-gradient(skyblue 10%, black 70%);
+}
+#contenair8 input[type="submit"]{
+  order: none;
+  border: none;
+  outline: none;
+  height: 40px;
+  background:blue;
+  color: #fff;
+  font-size: 22px;
+  border-radius: 20px;
+}
+#contenair8 input[type="submit"]:hover{
+  cursor: pointer;
+  background: #ffc107;
+  color: #000;
+}
+
+#contenair9{
+display: block;
+  position:absolute; 
+  width:250px;
+  height:350px;
+  top:3000px; 
+  left:650px;
+  border: 2px solid maroon;
+  border-radius: 10px;
+  background-color:#fff;
+  background: linear-gradient(black 10%, brown 70%);
+    color: yellow;
+}
+}
+#contenair9 input[type="submit"]{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #fb2525;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+#contenair9 input[type="submit"]:hover{
+  cursor: pointer;
+  background:#ffc107;
+  color: #000;
+}
+#email1{
+  display: block;
+  position: absolute;
+  width:200px;
+  height: 20px; 
+  border:2px solid white;
+  left: 45%;
+  top: 518%;
+}
+#emails1{
+  display: block;
+  position: absolute;
+  width:200px;
+  height: 20px; 
+  border:2px solid white;
+  left: 65%;
+  top: 518%;
+}
+
+
+#q{
+  width:100%;
+  height:35%;
+}
+#v{
+  width: 100%;
+}
